@@ -1,15 +1,9 @@
 {
-  "name":"Gift Vault",
-  "short_name":"Gift Vault",
-  "id":"/gift-vault/",
-  "start_url":"./",
-  "scope":"./",
-  "display":"standalone",
-  "background_color":"#0b0c10",
-  "theme_color":"#111318",
+  "name":"Gift Vault","short_name":"Gift Vault","id":"./","start_url":"./","scope":"./",
+  "display":"standalone","background_color":"#0b0c10","theme_color":"#111318",
   "description":"Private local gift card vault",
   "icons":[
-    {"src":"icons/icon-180.png","sizes":"180x180","type":"image/png","purpose":"any maskable"},
-    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+    {"src":"icon-180.png","sizes":"180x180","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
   ]
 }
